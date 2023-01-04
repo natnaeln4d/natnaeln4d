@@ -4,11 +4,8 @@
 ##
 -    I’m looking to collaborate on open team 
 ##
-- 📫 How to reach me:
-- https://www.facebook.com/natty.Hakim/
-- natneln4d@gmail.com
-- t.me/Natnaeln4d
-- https://www.instagram.com/nakim4630/
+-
+
 <!--
 **natnaeln4d/natnaeln4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+##
+<h3 align="center">A passionate full stack developer from Ethiopia</h3>
+<h3 align="left"> 📫 How to reach me:</h3>
+- https://www.facebook.com/natty.Hakim/
+- natneln4d@gmail.com
+- t.me/Natnaeln4d
+- https://www.instagram.com/nakim4630/
 <p align="left">
 </p>
 

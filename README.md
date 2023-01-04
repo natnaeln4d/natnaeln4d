@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 <ul>
   <li>
   https://www.facebook.com/natty.Hakim/</li>
-  <li></li>
+  <li>natneln4d@gmail.com</li>
   <li></li>
   <li></li>
 </ul>
-- 
-- natneln4d@gmail.com
+ 
 - t.me/Natnaeln4d
 - https://www.instagram.com/nakim4630/
 <p align="left">

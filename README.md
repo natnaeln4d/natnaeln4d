@@ -4,9 +4,6 @@
 ##
 -    I’m looking to collaborate on open team 
 ##
-⚡ Fun fact:
-    guess 
-##
 - 📫 How to reach me:
 - https://www.facebook.com/natty.Hakim/
 - natneln4d@gmail.com
@@ -27,8 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

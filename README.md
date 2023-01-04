@@ -2,7 +2,7 @@
 ##
 - I’m currently learning at jimma university.
 ##
-- I’m looking to collaborate on open team  
+- I’m looking to collaborate on open team.  
 <!--
 **natnaeln4d/natnaeln4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

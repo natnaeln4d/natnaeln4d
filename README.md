@@ -27,11 +27,10 @@ Here are some ideas to get you started:
   <li>
   https://www.facebook.com/natty.Hakim/</li>
   <li>natneln4d@gmail.com</li>
-  <li></li>
+  <li>t.me/Natnaeln4d</li>
   <li></li>
 </ul>
  
-- t.me/Natnaeln4d
 - https://www.instagram.com/nakim4630/
 <p align="left">
 </p>

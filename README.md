@@ -28,10 +28,9 @@ Here are some ideas to get you started:
   https://www.facebook.com/natty.Hakim/</li>
   <li>natneln4d@gmail.com</li>
   <li>t.me/Natnaeln4d</li>
-  <li></li>
+  <li>https://www.instagram.com/nakim4630/</li>
 </ul>
  
-- https://www.instagram.com/nakim4630/
 <p align="left">
 </p>
 

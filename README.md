@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-- 🌱 I’m currently learning at jimma university
+- I’m currently learning at jimma university
 ##
 -    I’m looking to collaborate on open team 
 <!--

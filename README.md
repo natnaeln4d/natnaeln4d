@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 ##
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <h3 align="left"> 📫 How to reach me:</h3>
-- https://www.facebook.com/natty.Hakim/
+<ul>
+  <li>
+  https://www.facebook.com/natty.Hakim/</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+- 
 - natneln4d@gmail.com
 - t.me/Natnaeln4d
 - https://www.instagram.com/nakim4630/

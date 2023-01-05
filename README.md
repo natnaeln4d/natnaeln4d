@@ -1,4 +1,4 @@
-##  Hi
+## 👋 Hi There!
 
 - I’m currently learning at jimma university.
 ##
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-"
+
 ##
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <h3 align="left"> 📫 How to reach me:</h3>

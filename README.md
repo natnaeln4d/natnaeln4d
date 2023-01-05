@@ -31,9 +31,8 @@ Here are some ideas to get you started:
   <li>https://www.instagram.com/nakim4630/</li>
 </ul>
  
-<p align="left">
-</p>
-##
+
+
 <img  align = 'left' width = '50%'  height= '300px' src= "https://github-readme-stats.vercel.app/api?username=natnaeln4d&show_icons=true&theme=radical" />
 
 <h3 align="left">Languages and Tools:</h3>

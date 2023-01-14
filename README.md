@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <li>https://www.instagram.com/nakim4630/</li>
 </ul>
  
-<!-- ##
+#
 <img  align = 'left' width = '50%'  height= '300px' src= "https://github-readme-stats.vercel.app/api?username=natnaeln4d&show_icons=true&theme=radical" />
 <img  align = 'right' width = '48%' height= '300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaeln4d&layout=compact" /> -->
 <!-- <img  align = 'center' width = '50%' height= '300px' src="https://streak-stats.demolab.com/?user=natnaeln4d&theme=dark"/> -->

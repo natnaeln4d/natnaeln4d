@@ -4,10 +4,7 @@
     <img src="https://camo.githubusercontent.com/a24f9934a56ec3f24b5beb4c01d744332dd969a15ce6f690395161ea3d238c46/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48656c6c6f2c2b5468657265212bf09f918b3b546869732b69732b4e61746e61656c2e2e2e2e3b4e6963652b746f2b6d6565742b796f75212663656e7465723d747275652673697a653d3238" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Natnael Getachew ;Nice+to+meet+you!&amp;center=true&amp;size=28" style="max-width: 100%;">
   </a>
 </h1>
-#
-- I’m currently learning at jimma university. 
-# 
-- I’m looking to collaborate on open team.   
+  
 <!--
 **natnaeln4d/natnaeln4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

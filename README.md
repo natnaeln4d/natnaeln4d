@@ -1,4 +1,4 @@
-## 👋 Hi There!  
+<!--## 👋 Hi There!  -->
  
 - I’m currently learning at jimma university. 
 ##  

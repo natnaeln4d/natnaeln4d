@@ -35,14 +35,8 @@ Here are some ideas to get you started:
   <li>https://www.instagram.com/nakim4630/</li>
 </ul>
  
-##
-    <a href="https://github.com/natnaeln4d/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://camo.githubusercontent.com/9aa923395553e414fd9b0addd39d1f7253064bee3b0b0b2ff0d84f5291b7aae7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e61746e61656c3737322673686f775f69636f6e733d74727565267468656d653d726561637426626f726465725f636f6c6f723d36316461666226686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=natnaeln4d&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;">
-    </a>
 
-<p dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/158f3adb3e09f254e1bd47330e62cbc57385c084a4276074e93d44760f9656de/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d6e61746e61656c373732267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565">
-  <img src="https://camo.githubusercontent.com/158f3adb3e09f254e1bd47330e62cbc57385c084a4276074e93d44760f9656de/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d6e61746e61656c373732267468656d653d72656163742d6461726b2662675f636f6c6f723d32303233326126686964655f626f726465723d74727565" width="100%" data-canonical-src="https://github-readme-activity-graph.cyclic.app/graph?username=natnaeln4d&amp;theme=react-dark&amp;bg_color=20232a&amp;hide_border=true" style="max-width: 100%;"></a></p>
+
 
 <!-- <img  align = 'left' width =  '50%'  height= '300px' src= "https://github-readme-stats.vercel.app/api?username=natnaeln4d&show_icons=true&theme=radical" /> -->
 <!-- <img   align = 'right' width = '48%' height= '300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaeln4d&layout=compact" /> --> 

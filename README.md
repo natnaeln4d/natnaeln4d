@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  
 ##
 <div align="center" dir="auto">
-    <a href="https://github.com/natnael772/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/natnaeln4d/github-readme-streak-stats" title="Go to Source">
       <img align="left" width="390" src="https://camo.githubusercontent.com/bdd310ab98662c376eebde18ad566bfc55685629d39201b9cbcf4d93b568faae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e61746e61656c373732267468656d653d726561637426626f726465723d36316461666226686964655f626f726465723d74727565" alt="natnaeln4d" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=natnaeln4d&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;">
     </a>
     <a href="https://github.com/natnaeln4d/github-readme-stats" title="Go to Source">

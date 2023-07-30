@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ✨ I’m looking to collaborate on open team. 
 ##
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
-<h3 align="left"> 📫 How to reach me:</h3>  
+ 
 
  
 

@@ -32,7 +32,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
+
 
 
 

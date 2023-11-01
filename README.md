@@ -48,7 +48,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natnaeln4d&show_icons=true&locale=en&layout=compact" alt="natnaeln4d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natnaeln4d&" alt="natnaeln4d" /></p>
+
 
 
 

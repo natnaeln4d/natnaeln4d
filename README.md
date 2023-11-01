@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **natnaeln4d@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 

@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently learning Jimma univeristy**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , MEARN,Laravel Php ,javascript**
 
 - 📫 How to reach me **natnaeln4d@gmail.com**
 

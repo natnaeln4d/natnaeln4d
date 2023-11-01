@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning Jimma univeristy**
 
-- 🌱 I’m currently learning **DEVOPS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , MEARN,Laravel Php ,javascript**
 

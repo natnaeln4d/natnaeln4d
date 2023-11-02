@@ -8,11 +8,11 @@
 
 
 
-- 🔭 I’m currently learning Jimma univeristy**
+- 🔭 I’m currently freelanceing ..**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **jimmma university**
 
-- 💬 Ask me about **Android , MEARN,Laravel Php ,javascript**
+- 💬 Ask me about **Android , MEARN,Laravel,Php ,Full Stack ,Flutter**
 
 - 📫 How to reach me **natnaeln4d@gmail.com**
 

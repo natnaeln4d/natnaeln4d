@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **jimmma university**
 
-- 💬 Ask me about **Android , MEARN,Laravel,FullStack Development,Flutter**
+- 💬 Ask me about **Android , MERN,Laravel,FullStack Development,Flutter**
 
 - 📫 How to reach me **natnaeln4d@gmail.com**
 

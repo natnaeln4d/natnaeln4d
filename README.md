@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaeln4d&label=Profile%20views&color=0e75b6&style=flat" alt="natnaeln4d" /> </p>
 
 
-
 - 🔭 I’m currently freelanceing ..**
 
 - 🌱 I’m currently learning **jimmma university**

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
 
 <h3 align="center">A passionate FullStack Developer from Ethiopia.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/679c480ccaf6367554425f1352899422b9706dfb0f1d6e6f3dd87e77519a9a19/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3436313830322f73637265656e73686f74732f343735333033312f6d656469612f35633339343530363434346431366433396136346438376230376463626632312e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natnaeln4d&label=Profile%20views&color=0e75b6&style=flat" alt="natnaeln4d" /> </p>
 

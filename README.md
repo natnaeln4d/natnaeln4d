@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently freelanceing ..**
 
-- 🌱 I’m currently learning **jimmma university**
-
 - 💬 Ask me about **Software development**
 
 - 📫 How to reach me **natnaeln4d@gmail.com**

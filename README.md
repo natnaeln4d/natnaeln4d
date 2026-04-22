@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://ouch-prod-src-cdn.icons8.com/uh/videos/VYyB3wNfnXwEsBpF.webm))](https://rishavchanda.io)
+//[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
 

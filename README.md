@@ -1,4 +1,4 @@
-//[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))](https://rishavchanda.io)
+<!--[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif))](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Natnael Getachew</h1>
 

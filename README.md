@@ -21,9 +21,11 @@
   <a href="https://twitter.com/natnaeln4d" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natnaeln4d" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/natnael-getachew-b65088263" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-getachew-b65088263" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/natnaeln4d" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="natnaeln4d" height="30" width="40" />
   </a>
